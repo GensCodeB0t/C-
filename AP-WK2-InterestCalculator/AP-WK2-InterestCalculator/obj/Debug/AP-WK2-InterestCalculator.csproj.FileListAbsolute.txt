@@ -1,0 +1,9 @@
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\bin\Debug\AP-WK2-InterestCalculator.exe.config
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\bin\Debug\AP-WK2-InterestCalculator.exe
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\bin\Debug\AP-WK2-InterestCalculator.pdb
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\obj\Debug\AP-WK2-InterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\obj\Debug\AP_WK2_InterestCalculator.Form1.resources
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\obj\Debug\AP_WK2_InterestCalculator.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\obj\Debug\AP-WK2-InterestCalculator.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\obj\Debug\AP-WK2-InterestCalculator.exe
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK2-InterestCalculator\AP-WK2-InterestCalculator\obj\Debug\AP-WK2-InterestCalculator.pdb

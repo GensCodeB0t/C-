@@ -1,0 +1,9 @@
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\bin\Debug\AP-WK3-Vending machine.exe.config
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\bin\Debug\AP-WK3-Vending machine.exe
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\bin\Debug\AP-WK3-Vending machine.pdb
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\obj\Debug\AP-WK3-Vending machine.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\obj\Debug\AP_WK3_Vending_machine.Form1.resources
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\obj\Debug\AP_WK3_Vending_machine.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\obj\Debug\AP-WK3-Vending machine.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\obj\Debug\AP-WK3-Vending machine.exe
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK3-Vending machine\AP-WK3-Vending machine\obj\Debug\AP-WK3-Vending machine.pdb

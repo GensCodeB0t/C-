@@ -1,0 +1,9 @@
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\bin\Debug\AP-WK6-Metric Distance Converter.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\bin\Debug\AP-WK6-Metric Distance Converter.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\bin\Debug\AP-WK6-Metric Distance Converter.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\obj\Debug\AP-WK6-Metric Distance Converter.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\obj\Debug\AP_WK6_Metric_Distance_Converter.Form1.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\obj\Debug\AP_WK6_Metric_Distance_Converter.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\obj\Debug\AP-WK6-Metric Distance Converter.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\obj\Debug\AP-WK6-Metric Distance Converter.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK6-Metric Distance Converter\AP-WK6-Metric Distance Converter\obj\Debug\AP-WK6-Metric Distance Converter.pdb

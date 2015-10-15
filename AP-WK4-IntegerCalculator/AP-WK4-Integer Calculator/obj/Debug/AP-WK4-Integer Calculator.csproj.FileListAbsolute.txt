@@ -1,0 +1,9 @@
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\bin\Debug\AP-WK4-Integer Calculator.exe.config
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\bin\Debug\AP-WK4-Integer Calculator.exe
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\bin\Debug\AP-WK4-Integer Calculator.pdb
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\obj\Debug\AP-WK4-Integer Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\obj\Debug\AP_WK4_Integer_Calculator.Form1.resources
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\obj\Debug\AP_WK4_Integer_Calculator.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\obj\Debug\AP-WK4-Integer Calculator.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\obj\Debug\AP-WK4-Integer Calculator.exe
+C:\Users\Ryan\Desktop\C++ Projects\AP-WK4-Integer Calculator\AP-WK4-Integer Calculator\obj\Debug\AP-WK4-Integer Calculator.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\bin\Debug\AP-WK8-Parallel Arrays.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\bin\Debug\AP-WK8-Parallel Arrays.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\bin\Debug\AP-WK8-Parallel Arrays.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\obj\Debug\AP-WK8-Parallel Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\obj\Debug\AP_WK8_Parallel_Arrays.Form1.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\obj\Debug\AP_WK8_Parallel_Arrays.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\obj\Debug\AP-WK8-Parallel Arrays.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\obj\Debug\AP-WK8-Parallel Arrays.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\C++ Projects\AP-WK8-Parallel Arrays\AP-WK8-Parallel Arrays\obj\Debug\AP-WK8-Parallel Arrays.pdb
